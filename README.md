@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MahadevRaaamesh
-- 👀 I’m interested in :game developement
-- 🌱 I’m currently learning :how to mod minecraft
+- 👀 I’m interested in :data science and game developement
+- 🌱 I’m currently learning :Learning c++ and c 
 - 💞️ I’m looking to collaborate on :not now
 - 📫 How to reach me :yall not getting it
 - 😄 Pronouns: he
