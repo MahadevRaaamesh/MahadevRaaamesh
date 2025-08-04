@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @MahadevRaaamesh
 - 👀 I’m interested in :data science and game developement
-- 🌱 I’m currently learning :Learning c++ and c 
-- 💞️ I’m looking to collaborate on :not now
+- 🌱 I’m currently learning :Learning kotlin and react 
+- 💞️ I’m looking to collaborate on :no
 - 📫 How to reach me :yall not getting it
-- 😄 Pronouns: he
+- 😄 Pronouns: hee heeee🕺(he)
 - ⚡ Fun fact: i love sandbox games 
 
 <!---
