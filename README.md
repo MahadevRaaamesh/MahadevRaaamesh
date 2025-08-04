@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MahadevRaaamesh
-- 👀 I’m interested in :data science and game developement
+- 👀 I’m interested in :AI,data science and game developement
 - 🌱 I’m currently learning :Learning kotlin and react 
 - 💞️ I’m looking to collaborate on :no
 - 📫 How to reach me :yall not getting it
