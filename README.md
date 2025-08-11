@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MahadevRaaamesh
-- 👀 I’m interested in :AI,data science and game developement
-- 🌱 I’m currently learning :Learning kotlin and react 
-- 💞️ I’m looking to collaborate on :no
-- 📫 How to reach me :yall not getting it
+- 👀 I’m interested in : AI ,Data Science and Game Developement
+- 🌱 I’m currently learning :Learning kotlin , react js x tailwind css and flask 
+- 💞️ I’m looking to collaborate on : No
+- 📫 How to reach me :No Reaching me
 - 😄 Pronouns: hee heeee🕺(he)
 - ⚡ Fun fact: i love sandbox games 
 
