@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @MahadevRaaamesh
 - 👀 I’m interested in : AI ,Data Science and Game Developement
-- 🌱 I’m currently learning :Learning kotlin , react js x tailwind css and flask 
+- 🌱 I’m currently learning :Learning CS for Unity
+  
 - 💞️ I’m looking to collaborate on : No
 - 📫 How to reach me :No Reaching me
 - 😄 Pronouns: hee heeee🕺(he)
