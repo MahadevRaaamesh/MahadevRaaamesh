@@ -4,7 +4,7 @@
   
 - 💞️ I’m looking to collaborate on : No
 - 📫 How to reach me :No Reaching me
-- 😄 Pronouns: hee heeee🕺(he)
+- 😄 Pronouns: heeeee hee🕺(he)
 - ⚡ Fun fact: i love sandbox games 
 
 <!---
