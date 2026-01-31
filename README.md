@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning :Learning CS for Unity
   
 - 💞️ I’m looking to collaborate on : No
-- 📫 How to reach me :No Reaching me
+- 📫 How to reach me : Look at Resume
 - 😄 Pronouns: heeeee hee🕺(he)
 - ⚡ Fun fact: i love sandbox games 
 
