@@ -1,6 +1,6 @@
 # **Mahadev R**
 
-## 📌 Place to put my details
+## 📌 Contacts & Links
 - LinkedIn: https://in.linkedin.com/in/mahadev-raaamesh-89a353329
 - GitHub: https://github.com/MahadevRaaamesh
 - Email: mahadevraamesh@gmail.com
