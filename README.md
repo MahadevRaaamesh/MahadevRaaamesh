@@ -14,7 +14,7 @@
 ## Contact  
 - **Email:** mahadevraaamesh@gmail.com  
 - **Resume:** [Resume](https://github.com/MahadevRaaamesh/MahadevRaaamesh/blob/main/Resume.md)  
-- **Pronouns:** He/Him  
+
 
 
 <!---
