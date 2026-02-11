@@ -1,11 +1,21 @@
-- 👋 Hi, I’m @MahadevRaaamesh
-- 👀 I’m interested in : AI ,Data Science and Game Developement
-- 🌱 I’m currently learning :Learning C# for Unity, AI and ML And Mobile app dev .
-  
-- 💞️ I’m looking to collaborate on : No
-- 📫 How to reach me : Look at Resume
-- 😄 Pronouns: heeeee hee🕺(he)
-- ⚡ Fun fact: i love sandbox games 
+
+# Hi, I’m **@MahadevRaaamesh**
+
+## Interests  
+- Artificial Intelligence  
+- Data Science  
+- Game Development  
+
+## Currently Learning  
+- C# for Unity  
+- Artificial Intelligence and Machine Learning  
+- Mobile App Development  
+
+## Contact  
+- **Email:** mahadevraaamesh@gmail.com  
+- **Resume:** [Resume](https://github.com/MahadevRaaamesh/MahadevRaaamesh/blob/main/Resume.md)  
+- **Pronouns:** He/Him  
+
 
 <!---
 MahadevRaaamesh/MahadevRaaamesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
