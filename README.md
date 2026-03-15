@@ -9,7 +9,7 @@
 ## Currently Learning  
 - C# for Unity  
 - Artificial Intelligence and Machine Learning  
-- Mobile App Development  
+ 
 
 ## Contact  
 - **Email:** mahadevraaamesh@gmail.com  
