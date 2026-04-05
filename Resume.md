@@ -1,7 +1,7 @@
 # **Mahadev R**
 
 ## 📌 Contacts & Links
-- LinkedIn: https://in.linkedin.com/in/mahadev-raaamesh-89a353329
+- LinkedIn: https://www.linkedin.com/in/mahadev-r-5b64a63b9
 - GitHub: https://github.com/MahadevRaaamesh
 - Email: mahadevraamesh@gmail.com
 - Leetcode: https://leetcode.com/u/mahadevraaamesh/
@@ -41,4 +41,4 @@ Chennai Institute of Technology (2024 – 2028)
 ## 🛠 Skills  
 - **Programming Languages:** C, C++, C#, Java, JavaScript, TypeScript, Arduino C, Python  
 - **Tools & Platforms:** Firebase, Vercel, Supabase, Unity  
-- **Languages:** Fluent in English  
+- **Languages:** Fluent in English  and Tamil
